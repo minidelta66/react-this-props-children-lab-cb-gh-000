@@ -6,6 +6,6 @@ export deafault class Invitation extends React.Component {
       <div>
         <h1>"You've been invited!"</h1>
       </div>
-    );
+    )
   }
 }
